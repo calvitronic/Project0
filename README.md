@@ -1,2 +1,2 @@
 # Project0
-Starter webpage for CS291A
+Static Web Page
